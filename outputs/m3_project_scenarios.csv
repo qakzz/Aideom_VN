@@ -1,0 +1,5 @@
+﻿scenario,objective,total_cost,cost_year_1_2,n_projects,selected_ids
+Cơ sở 80.000 tỷ,115400.0,59700.0,39800.0,9,"P2, P5, P7, P8, P9, P10, P12, P14, P15"
+Nới 100.000 tỷ,142500.0,74300.0,49800.0,10,"P2, P3, P4, P5, P6, P8, P9, P12, P14, P15"
+Bắt buộc P1+P2,113300.0,59300.0,39800.0,8,"P1, P2, P4, P8, P9, P12, P14, P15"
+Lợi ích kỳ vọng rủi ro,91285.0,58800.0,40000.0,8,"P2, P3, P5, P6, P7, P12, P14, P15"

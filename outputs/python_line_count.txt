@@ -1,0 +1,15 @@
+    1 src/__init__.py
+  137 src/config.py
+  187 src/data_loader.py
+  189 src/m1_cobb_douglas.py
+  237 src/m2_mcdm.py
+  274 src/m3_optimization.py
+  171 src/m4_labor.py
+  208 src/m5_stochastic_pareto.py
+  234 src/m6_rl.py
+  106 src/visualization.py
+   99 src/scenario_pipeline.py
+  381 dashboard/app.py
+   62 tests/test_core.py
+    5 tests/conftest.py
+ 2291 total

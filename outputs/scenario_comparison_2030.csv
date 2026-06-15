@@ -1,0 +1,6 @@
+﻿scenario,description,GDP_2030,D_2030,AI_2030,H_2030,CyberRisk,EmissionIndex,NetJobIndex
+S1 Truyền thống,"Tập trung vốn vật chất, hạ tầng truyền thống và FDI.",16074.894043458928,24.5,105.1,31.7,0.029,0.10599999999999998,6000.0
+S2 Số hóa nhanh,"Ưu tiên chính phủ số, doanh nghiệp số và hạ tầng dữ liệu.",16983.868291464645,42.0,117.6,32.95,0.0335,0.064,15000.000000000002
+S3 AI dẫn dắt,"Ưu tiên AI, dữ liệu lớn, bán dẫn và trung tâm dữ liệu.",16856.90523598591,29.5,192.6,32.95,0.06949999999999999,0.083,1000.0000000000009
+S4 Bao trùm số,"Ưu tiên vùng yếu, SME, giáo dục số và nông nghiệp số.",16339.358489367929,29.5,105.1,39.2,0.02,0.060000000000000005,28999.999999999993
+S5 Tối ưu cân bằng,"Kịch bản thỏa hiệp giữa tăng trưởng, việc làm và rủi ro.",16582.61163331937,32.0,117.6,34.2,0.032,0.078,14500.000000000002
